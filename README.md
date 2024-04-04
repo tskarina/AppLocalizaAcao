@@ -22,23 +22,6 @@ Este repositório contém o código-fonte do projeto desenvolvido como parte do 
 
 O objetivo principal deste projeto é aplicar os conhecimentos adquiridos ao longo do MBA Dev Full Stack na prática. A escolha das tecnologias, incluindo PostgreSQL como banco de dados e TypeScript para garantir tipagem estática, reflete as boas práticas e a robustez que são esperadas em um ambiente de desenvolvimento profissional.
 
-## Tecnologias Utilizadas
-
-- **Frontend:**
-  - React
-  - TypeScript
-  - HTML5
-  - CSS3
-  - Node.js
-  - npm (gerenciador de pacotes)
-
-- **Backend:**
-  - Node.js
-  - Express
-  - TypeScript
-  - PostgreSQL
-  - TypeORM
-  - Yarn (gerenciador de pacotes)
 
 ## Como Contribuir
 
